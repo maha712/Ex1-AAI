@@ -1,8 +1,12 @@
  Name : Mahalakshmi k
+ 
  Register No: 212222240057
+ 
  Experiment 1
+ 
  DATE:
- Implementation of Bayesian Networks
+ 
+               Implementation of Bayesian Networks
 ## Aim :
     To create a bayesian Network for the given dataset in Python
 ## Algorithm:
